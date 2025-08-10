@@ -1,0 +1,5 @@
+name,addr,type
+Pixel6,192.168.1.71,host
+Router,192.168.1.254,host
+TV,192.168.1.85,host
+# add more like: Name,IP,host
